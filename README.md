@@ -225,6 +225,8 @@ MIT License — free to use, modify, and distribute.
 
 ## Credits
 
+Created by [Shital Shah](https://shitalshah.com) and [Claude Code](https://claude.ai/code).
+
 Built with vanilla HTML, CSS, and JavaScript. No frameworks, no dependencies.
 
 ---
